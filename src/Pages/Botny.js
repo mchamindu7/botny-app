@@ -26,7 +26,7 @@ function  Botny(){
     <Navbar bg="dark" variant="dark" expand="lg">
       <Container>
         <Col md={2}>
-          <Navbar.Brand href="/Home">Faculty of Science</Navbar.Brand>
+          <Navbar.Brand href="/Home">Faculty Of Science</Navbar.Brand>
         </Col>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
