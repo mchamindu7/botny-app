@@ -37,7 +37,7 @@ function  Botny(){
                 <Row>
                   <Col md={1}>
                     <h5> Degree Programme</h5>
-                    <NavDropdown.Item href="/">Botnical Science</NavDropdown.Item>
+                    <NavDropdown.Item href="/">Botanical Science</NavDropdown.Item>
                     
                   </Col>
 
@@ -126,7 +126,7 @@ function  Botny(){
       <Card.Body>
         <Card.Title>Notice Board</Card.Title>
         <Card.Text>
-        Special notices about the Clearnce
+        Special Notices about the Clearnce
         </Card.Text>
         </Card.Body>
     </Card>
